@@ -42,3 +42,7 @@ next-env.d.ts
 
 # scraper run artifacts (screenshots, logs)
 /outputs/
+
+# cloudflare / wrangler
+/.wrangler/
+/.open-next/
