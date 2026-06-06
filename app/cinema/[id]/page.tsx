@@ -1,27 +1,15 @@
-import fs from "fs";
-import path from "path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { CinemaData, Movie } from "@/app/types";
 import GenreFilter from "@/components/GenreFilter";
+import vishowData from "@/data/vishow.json";
+import ambassadorData from "@/data/ambassador.json";
 
-const CINEMA_MAP: Record<string, { file: string; cinemaIndex: number; accent: string; listView: boolean }> = {
-  "vishow-ty": { file: "vishow.json", cinemaIndex: 0, accent: "bg-red-600", listView: true },
-  "vishow-tg": { file: "vishow.json", cinemaIndex: 1, accent: "bg-red-600", listView: true },
-  ambassador:  { file: "ambassador.json", cinemaIndex: 0, accent: "bg-indigo-600", listView: false },
+const CINEMA_MAP: Record<string, { data: CinemaData[]; cinemaIndex: number; accent: string; listView: boolean }> = {
+  "vishow-ty": { data: vishowData as CinemaData[], cinemaIndex: 0, accent: "bg-red-600", listView: true },
+  "vishow-tg": { data: vishowData as CinemaData[], cinemaIndex: 1, accent: "bg-red-600", listView: true },
+  ambassador:  { data: ambassadorData as CinemaData[], cinemaIndex: 0, accent: "bg-indigo-600", listView: false },
 };
-
-function loadCinemaData(id: string): CinemaData | null {
-  const config = CINEMA_MAP[id];
-  if (!config) return null;
-
-  const filePath = path.join(process.cwd(), "data", config.file);
-  if (!fs.existsSync(filePath)) return null;
-
-  const raw = fs.readFileSync(filePath, "utf-8");
-  const list: CinemaData[] = JSON.parse(raw);
-  return list[config.cinemaIndex] ?? null;
-}
 
 function extractGenre(movie: Movie): string {
   const name = movie.name.toLowerCase();
@@ -37,10 +25,12 @@ function extractGenre(movie: Movie): string {
 
 export default async function CinemaPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const cinema = loadCinemaData(id);
+  const config = CINEMA_MAP[id];
+  if (!config) notFound();
+
+  const cinema = config.data[config.cinemaIndex];
   if (!cinema) notFound();
 
-  const config = CINEMA_MAP[id];
   const moviesWithGenre = cinema.movies.map((m) => ({ ...m, genre: extractGenre(m) }));
   const genres = Array.from(new Set(moviesWithGenre.map((m) => m.genre))).sort();
 
