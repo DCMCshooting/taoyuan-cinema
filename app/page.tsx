@@ -1,65 +1,91 @@
-import Image from "next/image";
+import Link from "next/link";
 
-export default function Home() {
+const CINEMAS = [
+  {
+    id: "vishow-ty",
+    name: "桃園統領威秀影城",
+    brand: "VIESHOW",
+    address: "桃園市桃園區中正路1188號",
+    colorFrom: "from-red-900/40",
+    colorTo: "to-red-950/60",
+    accent: "bg-red-600",
+    logo: "V",
+  },
+  {
+    id: "vishow-tg",
+    name: "桃園桃知道威秀影城",
+    brand: "VIESHOW",
+    address: "桃園市桃園區春日路1688號",
+    colorFrom: "from-red-900/40",
+    colorTo: "to-red-950/60",
+    accent: "bg-red-600",
+    logo: "V",
+  },
+  {
+    id: "ambassador",
+    name: "八德廣豐國賓影城",
+    brand: "AMBASSADOR",
+    address: "桃園市八德區介壽路一段728號3樓",
+    colorFrom: "from-indigo-900/40",
+    colorTo: "to-indigo-950/60",
+    accent: "bg-indigo-600",
+    logo: "A",
+  },
+];
+
+export default function HomePage() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="min-h-screen flex flex-col">
+      <header className="border-b border-white/10 px-8 py-5">
+        <div className="max-w-6xl mx-auto flex items-center gap-3">
+          <span className="text-2xl">🎬</span>
+          <div>
+            <h1 className="text-xl font-bold tracking-wide">桃園電影院</h1>
+            <p className="text-xs text-white/40">院線片場次聚合</p>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </header>
+
+      <section className="px-8 py-16 text-center">
+        <div className="max-w-2xl mx-auto">
+          <h2 className="text-4xl font-bold mb-3 tracking-tight">今天想看什麼？</h2>
+          <p className="text-white/50 text-lg">選擇影城，查看今日上映場次</p>
         </div>
-      </main>
-    </div>
+      </section>
+
+      <section className="px-8 pb-16 flex-1">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
+          {CINEMAS.map((cinema) => (
+            <Link
+              key={cinema.id}
+              href={`/cinema/${cinema.id}`}
+              className={`group relative rounded-2xl overflow-hidden border border-white/10 bg-gradient-to-br ${cinema.colorFrom} ${cinema.colorTo} hover:border-white/30 hover:scale-[1.02] transition-all duration-300 cursor-pointer block`}
+            >
+              <div className={`h-1 ${cinema.accent}`} />
+              <div className="p-8">
+                <div className="flex items-center gap-3 mb-6">
+                  <div className={`w-10 h-10 rounded-full ${cinema.accent} flex items-center justify-center font-bold text-lg`}>
+                    {cinema.logo}
+                  </div>
+                  <span className="text-xs font-semibold tracking-[0.2em] text-white/50 uppercase">
+                    {cinema.brand}
+                  </span>
+                </div>
+                <h3 className="text-xl font-bold mb-2 leading-snug">{cinema.name}</h3>
+                <p className="text-sm text-white/40">{cinema.address}</p>
+                <div className="mt-8 flex items-center gap-2 text-sm font-medium text-white/60 group-hover:text-white transition-colors">
+                  <span>查看院線片</span>
+                  <span className="group-hover:translate-x-1 transition-transform inline-block">→</span>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <footer className="border-t border-white/10 px-8 py-5 text-center text-xs text-white/30">
+        資料每日更新 · 訂票請至各影城官網
+      </footer>
+    </main>
   );
 }

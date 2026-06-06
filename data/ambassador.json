@@ -1,0 +1,477 @@
+[
+  {
+    "cinemaId": "8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "cinemaName": "八德廣豐國賓影城",
+    "address": "桃園市八德區介壽路一段728號3樓",
+    "movies": [
+      {
+        "id": "DBOX特別場太空超人",
+        "name": "（DBOX特別場）太空超人",
+        "nameEn": "MASTERS OF THE UNIVERSE",
+        "rating": "保護級 (P)",
+        "duration": "2時20分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/MASTERSOFTHEUNIVERSE_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "16:20",
+            "hall": "2廳",
+            "seats": "223席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "神奇數字馬戲團最終章",
+        "name": "神奇數字馬戲團：最終章",
+        "nameEn": "The Amazing Digital Circus",
+        "rating": "保護級 (P)",
+        "duration": "1時33分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/TheAmazingDigitalCircus_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "11:10",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "13:00",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "14:50",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "16:40",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "18:30",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "20:20",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:10",
+            "hall": "5廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "驚聲尖笑",
+        "name": "驚聲尖笑",
+        "nameEn": "SCARY MOVIE",
+        "rating": "限制級 (R)",
+        "duration": "1時35分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/SCARYMOVIE_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "11:30",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "13:20",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "15:10",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "17:00",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "18:50",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "20:40",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:30",
+            "hall": "8廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "後室",
+        "name": "後室",
+        "nameEn": "Backrooms",
+        "rating": "輔15級 (PG15)",
+        "duration": "1時45分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/Backrooms_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "10:20",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "12:25",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "14:30",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "16:35",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "18:40",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "20:45",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:50",
+            "hall": "4廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "屍速禁區",
+        "name": "屍速禁區",
+        "nameEn": "COLONY",
+        "rating": "輔15級 (PG15)",
+        "duration": "2時2分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/COLONY_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "10:40",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "12:20",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "14:40",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "15:30",
+            "hall": "6廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "17:00",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "17:50",
+            "hall": "6廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "19:20",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "20:20",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "21:40",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:10",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:40",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "神木之島",
+        "name": "神木之島",
+        "nameEn": "The Island and the trees",
+        "rating": "普遍級 (G)",
+        "duration": "2時10分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/TheIslandandthetrees_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "15:25",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "鏡之孤城",
+        "name": "鏡之孤城",
+        "nameEn": "Lonely Castle in the Mirror",
+        "rating": "普遍級 (G)",
+        "duration": "1時56分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/LonelyCastleintheMirror_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "10:30",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "17:20",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "太空超人",
+        "name": "太空超人",
+        "nameEn": "MASTERS OF THE UNIVERSE",
+        "rating": "保護級 (P)",
+        "duration": "2時20分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/MASTERSOFTHEUNIVERSE_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "11:10",
+            "hall": "2廳",
+            "seats": "223席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "13:50",
+            "hall": "2廳",
+            "seats": "223席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "19:00",
+            "hall": "2廳",
+            "seats": "223席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "21:35",
+            "hall": "2廳",
+            "seats": "223席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "超級瑪利歐銀河電影版",
+        "name": "超級瑪利歐銀河電影版",
+        "nameEn": "THE SUPER MARIO GALAXY MOVIE",
+        "rating": "普遍級 (G)",
+        "duration": "1時38分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/THESUPERMARIOGALAXYMOVIE_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "10:20",
+            "hall": "7廳",
+            "seats": "225席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "別離無恙",
+        "name": "別離無恙",
+        "nameEn": "Until We Meet Again",
+        "rating": "普遍級 (G)",
+        "duration": "2時4分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/UntilWeMeetAgain_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "10:50",
+            "hall": "6廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "兔兔bunny輔15級PG152時7分",
+        "name": "兔兔！！bunny!!輔15級 (PG15)|2時7分",
+        "nameEn": "bunny!!",
+        "rating": "輔15級 (PG15)",
+        "duration": "2時7分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/bunny_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "12:45",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "22:30",
+            "hall": "6廳",
+            "seats": "185席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "曼達洛人與古古",
+        "name": "曼達洛人與古古",
+        "nameEn": "THE MANDALORIAN & GROGU",
+        "rating": "保護級 (P)",
+        "duration": "2時11分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/THEMANDALORIANGROGU_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "13:00",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "17:50",
+            "hall": "3廳",
+            "seats": "203席",
+            "bookingUrl": ""
+          }
+        ]
+      },
+      {
+        "id": "穿著PRADA的惡魔2",
+        "name": "穿著PRADA的惡魔2",
+        "nameEn": "The Devil Wears Prada 2",
+        "rating": "普遍級 (G)",
+        "duration": "1時58分",
+        "poster": "https://www.ambassador.com.tw/assets/img/movies/TheDevilWearsPrada2_180x270_Poster.jpg",
+        "sessions": [
+          {
+            "date": "2026/06/06",
+            "time": "15:05",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          },
+          {
+            "date": "2026/06/06",
+            "time": "19:35",
+            "hall": "1廳",
+            "seats": "205席",
+            "bookingUrl": ""
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-06-06T15:39:41.189079",
+    "source": "ambassador-playwright"
+  }
+]
