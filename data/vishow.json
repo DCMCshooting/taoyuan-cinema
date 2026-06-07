@@ -298,18 +298,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00012709.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "13:05",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730288"
+          },
+          {
+            "date": "2026/06/07",
             "time": "16:45",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730447"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730348"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "19:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730384"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730270"
           }
         ]
       },
@@ -322,11 +329,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017467.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "13:30",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730321"
+          },
+          {
+            "date": "2026/06/07",
             "time": "21:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730437"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730324"
           }
         ]
       },
@@ -339,25 +353,39 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017444.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730272"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730273"
+          },
+          {
+            "date": "2026/06/07",
             "time": "17:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730441"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730338"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "20:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=728689"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=728691"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "22:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730390"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730276"
           }
         ]
       },
@@ -370,11 +398,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017464.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "16:15",
+            "date": "2026/06/09",
+            "time": "14:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730477"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730159"
           }
         ]
       },
@@ -387,11 +415,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017469.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "19:35",
+            "date": "2026/06/07",
+            "time": "13:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730410"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730295"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "20:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730297"
           }
         ]
       },
@@ -404,18 +439,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017460.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "13:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730336"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730442"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730328"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:35",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730455"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730340"
           }
         ]
       },
@@ -428,11 +470,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017471.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "15:35",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730337"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730454"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730339"
           }
         ]
       },
@@ -445,18 +494,32 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017412.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "10:40",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730497"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:50",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730311"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "17:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730495"
+          },
+          {
+            "date": "2026/06/07",
             "time": "20:25",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730426"
-          },
-          {
-            "date": "2026/06/06",
-            "time": "22:30",
-            "hall": "",
-            "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730499"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730313"
           }
         ]
       },
@@ -469,11 +532,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017475.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "15:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730274"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:20",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730405"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730291"
           }
         ]
       },
@@ -486,18 +556,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017472.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730481"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730478"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730482"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730479"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730483"
           }
         ]
       },
@@ -510,39 +587,60 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017450.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730282"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:45",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730283"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "15:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730356"
+          },
+          {
+            "date": "2026/06/07",
             "time": "16:25",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730398"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730284"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "18:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730474"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730358"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "19:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730399"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730285"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "20:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730475"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730314"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730400"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730359"
           }
         ]
       },
@@ -589,18 +687,32 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017275.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "10:35",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730357"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "14:30",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730325"
+          },
+          {
+            "date": "2026/06/07",
             "time": "18:45",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730469"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730354"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:45",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730406"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730292"
           }
         ]
       },
@@ -613,11 +725,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017438.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "19:25",
+            "date": "2026/06/07",
+            "time": "11:20",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730378"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730262"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "18:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730265"
           }
         ]
       },
@@ -630,32 +749,67 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017371.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "10:35",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730361"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "11:25",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730304"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:35",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730305"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "14:40",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730268"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "15:45",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730306"
+          },
+          {
+            "date": "2026/06/07",
             "time": "16:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730383"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730363"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "18:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730419"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730307"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "20:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730420"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730308"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "22:25",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730421"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730309"
           }
         ]
       },
@@ -668,81 +822,137 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017417.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "16:25",
+            "date": "2026/06/07",
+            "time": "10:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730468"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730362"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730360"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "11:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730351"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "12:05",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730341"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "12:45",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730299"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:25",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730258"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:50",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730352"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "15:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730300"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "15:50",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730259"
+          },
+          {
+            "date": "2026/06/07",
             "time": "17:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730459"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730343"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "17:25",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730413"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730301"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "18:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730373"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730260"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "18:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730436"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730323"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "19:20",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730460"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730344"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "19:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730414"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730302"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "20:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730374"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730261"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730470"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730355"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:45",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730461"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730345"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "22:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730415"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730303"
           }
         ]
       },
@@ -755,11 +965,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017418.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "17:40",
+            "date": "2026/06/08",
+            "time": "14:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730695"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730693"
           }
         ]
       },
@@ -772,11 +982,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00009073.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "20:40",
+            "date": "2026/06/07",
+            "time": "21:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730432"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730317"
           }
         ]
       },
@@ -789,11 +999,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017365.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "16:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730435"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730294"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "22:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730298"
           }
         ]
       },
@@ -806,18 +1023,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017406.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "12:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730267"
+          },
+          {
+            "date": "2026/06/07",
             "time": "17:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730389"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730269"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:20",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730385"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730271"
           }
         ]
       },
@@ -864,25 +1088,32 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017391.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730320"
+          },
+          {
+            "date": "2026/06/07",
             "time": "16:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730393"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730279"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "19:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730448"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730365"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730449"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730334"
           }
         ]
       },
@@ -912,11 +1143,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017360.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "17:15",
+            "date": "2026/06/07",
+            "time": "11:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730404"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730335"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "16:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730290"
           }
         ]
       },
@@ -946,11 +1184,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017291.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "21:20",
+            "date": "2026/06/07",
+            "time": "10:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730409"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730293"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "18:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730296"
           }
         ]
       },
@@ -963,11 +1208,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017308.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "21:50",
+            "date": "2026/06/08",
+            "time": "21:45",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730377"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730058"
           }
         ]
       },
@@ -1038,18 +1283,32 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017252.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "18:20",
+            "date": "2026/06/07",
+            "time": "12:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730431"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730330"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "15:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730332"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "19:10",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730318"
+          },
+          {
+            "date": "2026/06/07",
             "time": "21:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730443"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730329"
           }
         ]
       },
@@ -1062,11 +1321,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017282.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "18:30",
+            "date": "2026/06/07",
+            "time": "22:30",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730427"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730286"
           }
         ]
       },
@@ -1079,25 +1338,39 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017200.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "11:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730346"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "13:40",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730347"
+          },
+          {
+            "date": "2026/06/07",
             "time": "16:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730464"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730364"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "18:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730465"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730349"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730466"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730350"
           }
         ]
       },
@@ -1110,11 +1383,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017142.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "16:35",
+            "date": "2026/06/07",
+            "time": "15:15",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730429"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730315"
           }
         ]
       },
@@ -1127,11 +1400,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017047.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "17:35",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730453"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=20&txtSessionId=730275"
           }
         ]
       },
@@ -1170,7 +1443,7 @@
         ]
       }
     ],
-    "scrapedAt": "2026-06-06T15:39:25.329904",
+    "scrapedAt": "2026-06-06T22:52:57.046190",
     "source": "vishow-api"
   },
   {
@@ -1318,11 +1591,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017444.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "15:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27046"
+          },
+          {
+            "date": "2026/06/07",
             "time": "21:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26901"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26902"
           }
         ]
       },
@@ -1335,11 +1615,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017412.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "19:20",
+            "date": "2026/06/07",
+            "time": "12:20",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26951"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27051"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "17:15",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27059"
           }
         ]
       },
@@ -1352,11 +1639,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017472.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "12:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27040"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26948"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27043"
           }
         ]
       },
@@ -1369,18 +1663,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017450.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "16:55",
+            "date": "2026/06/07",
+            "time": "10:10",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26947"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27045"
           },
           {
-            "date": "2026/06/06",
-            "time": "21:35",
+            "date": "2026/06/07",
+            "time": "15:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26949"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27047"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "19:05",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27061"
           }
         ]
       },
@@ -1393,11 +1694,25 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017371.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "21:25",
+            "date": "2026/06/07",
+            "time": "12:50",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26935"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27044"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "17:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27042"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "21:45",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27055"
           }
         ]
       },
@@ -1410,25 +1725,46 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017417.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "17:00",
+            "date": "2026/06/07",
+            "time": "10:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26932"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27050"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
+            "time": "13:00",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27054"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "14:25",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27052"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "16:45",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27053"
+          },
+          {
+            "date": "2026/06/07",
             "time": "19:35",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26925"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27048"
           },
           {
-            "date": "2026/06/06",
+            "date": "2026/06/07",
             "time": "21:55",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26940"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27049"
           }
         ]
       },
@@ -1458,11 +1794,18 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017252.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "19:15",
+            "date": "2026/06/07",
+            "time": "10:40",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26924"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27057"
+          },
+          {
+            "date": "2026/06/07",
+            "time": "19:20",
+            "hall": "",
+            "seats": "",
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27060"
           }
         ]
       },
@@ -1475,11 +1818,11 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017200.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "16:50",
+            "date": "2026/06/07",
+            "time": "14:35",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=26938"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27041"
           }
         ]
       },
@@ -1509,16 +1852,16 @@
         "poster": "https://www.unicornpopcorn.com.tw/ForVsWeb/upload/film/HO00017048.jpg",
         "sessions": [
           {
-            "date": "2026/06/06",
-            "time": "17:10",
+            "date": "2026/06/07",
+            "time": "10:00",
             "hall": "",
             "seats": "",
-            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27184"
+            "bookingUrl": "https://www.vscinemas.com.tw/vsTicketing/ticketing/ticket.aspx?cinemacode=33&txtSessionId=27185"
           }
         ]
       }
     ],
-    "scrapedAt": "2026-06-06T15:39:36.151781",
+    "scrapedAt": "2026-06-06T22:53:06.936169",
     "source": "vishow-api"
   }
 ]
